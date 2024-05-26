@@ -11,6 +11,8 @@ The exercises are loosely divided in sections. Each section has a difficulty rat
 
 Good luck solving the puzzles!
 
+-- Akash
+
 *\* the list of puzzles is not yet complete! Pull requests or suggestions for additional exercises, corrections and improvements are welcomed.*
 
 ## Overview of puzzles

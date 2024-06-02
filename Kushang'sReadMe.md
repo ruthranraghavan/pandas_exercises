@@ -15,3 +15,5 @@
 </p>
 <p align="center"><img align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=KushangShah&text_color=20124d&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="KushangShah" /></p>
 </details>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kushang&label=Profile%20views&color=0e75b6&style=flat" alt="kushang" /> </p>
